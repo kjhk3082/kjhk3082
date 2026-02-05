@@ -1,17 +1,10 @@
-<!-- 혁신적인 애니메이션 헤더 -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=KIM%20JAE%20HYUNG&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=🚀%20Full-Stack%20Developer%20|%20AI%20Engineer%20|%20Problem%20Solver&descAlignY=60&descSize=20&stroke=ffffff&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=250&section=header&text=Kim%20Jae%20Hyung&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descSize=22)
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Building+the+future+with+code)](https://git.io/typing-svg)
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%F0%9F%92%BB+Building+innovative+solutions+with+code;%E2%9A%94%EF%B8%8F+Sweat+saves+blood%2C+blood+saves+lives%2C+and+brains+save+both.)](https://git.io/typing-svg)
-
-<br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjhk3082&count_bg=%236C63FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/kjhk3082)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjhk3082&count_bg=%234ECDC4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/kjhk3082)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kjhk3082-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kjhk3082/)
 [![GitHub followers](https://img.shields.io/github/followers/kjhk3082?style=flat&logo=github&label=Follow)](https://github.com/kjhk3082)
 
@@ -26,22 +19,14 @@ const jaeHyung = {
     name: "Kim Jae Hyung (김재형)",
     role: ["Full-Stack Developer", "AI Engineer"],
     location: "South Korea 🇰🇷",
-    education: "Computer Science",
-    interests: ["AI/ML", "Web Development", "Mobile Apps", "Computer Vision"],
-    currentFocus: ["Deep Learning", "Cloud Architecture", "System Design"],
-    motto: "Sweat saves blood, blood saves lives, and brains save both. - Rommel"
+    interests: ["AI/ML", "Web Dev", "Mobile", "Computer Vision"],
+    motto: "Sweat saves blood, blood saves lives, and brains save both."
 };
 ```
 
 ---
 
 ## 🛠 Tech Stack
-
-<table align="center">
-<tr>
-<td align="center" width="100"><b>Frameworks & Languages</b></td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -80,7 +65,7 @@ const jaeHyung = {
 
 ---
 
-## 🏅 Baekjoon Online Judge
+## 🏅 Baekjoon
 
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhk3082" width="45%"/>
@@ -113,7 +98,7 @@ const jaeHyung = {
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 <div align="center">
 
@@ -127,9 +112,8 @@ const jaeHyung = {
 
 <div align="center">
 
-### ⚔️ *"Sweat saves blood, blood saves lives, and brains save both."*
-#### — Erwin Rommel (롬멜 장군)
+### ⚔️ *"Sweat saves blood, blood saves lives, and brains save both."* — Rommel
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer)
