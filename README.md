@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Building+the+future+with+code)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjhk3082&count_bg=%234ECDC4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/kjhk3082)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kjhk3082-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kjhk3082/)
 [![GitHub followers](https://img.shields.io/github/followers/kjhk3082?style=flat&logo=github&label=Follow)](https://github.com/kjhk3082)
 
@@ -78,14 +77,6 @@ const jaeHyung = {
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kjhk3082&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 </div>
 
 ---
