@@ -1,103 +1,95 @@
+<!-- 혁신적인 애니메이션 헤더 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Kim%20Jae%20Hyung&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" />
+  
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=KIM%20JAE%20HYUNG&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=🚀%20Full-Stack%20Developer%20|%20AI%20Engineer%20|%20Problem%20Solver&descAlignY=60&descSize=20&stroke=ffffff&strokeWidth=2)
+
 </div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!;Building+the+future+with+code+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%F0%9F%92%BB+Building+innovative+solutions+with+code;%E2%9A%94%EF%B8%8F+Sweat+saves+blood%2C+blood+saves+lives%2C+and+brains+save+both.)](https://git.io/typing-svg)
+
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjhk3082&count_bg=%236C63FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/kjhk3082)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kjhk3082-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kjhk3082/)
+[![GitHub followers](https://img.shields.io/github/followers/kjhk3082?style=flat&logo=github&label=Follow)](https://github.com/kjhk3082)
 
 </div>
 
 ---
 
-<h2 align="center">🧑‍💻 About Me 🧑‍💻</h2>
-
-<div align="center">
+## 🧑‍💻 About Me
 
 ```javascript
 const jaeHyung = {
     name: "Kim Jae Hyung (김재형)",
-    role: "Full-Stack Developer",
+    role: ["Full-Stack Developer", "AI Engineer"],
     location: "South Korea 🇰🇷",
+    education: "Computer Science",
     interests: ["AI/ML", "Web Development", "Mobile Apps", "Computer Vision"],
-    currentlyLearning: ["Deep Learning", "Cloud Architecture", "System Design"],
-    motto: "Sweat saves blood, blood saves lives, and brains save both."
+    currentFocus: ["Deep Learning", "Cloud Architecture", "System Design"],
+    motto: "Sweat saves blood, blood saves lives, and brains save both. - Rommel"
 };
 ```
 
-</div>
-
 ---
 
-<h2 align="center">✨ Tech Stack ✨</h2>
+## 🛠 Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="100"><b>Frameworks & Languages</b></td>
+</tr>
+</table>
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"/>
+|Frontend|Backend|Mobile|
+|:---:|:---:|:---:|
+|<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind" />|<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django" />|<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />|
 
-### 🧠 AI / ML
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+|Languages|AI / ML|Database|
+|:---:|:---:|:---:|
+|<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java" />|<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />|<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" />|
 
-### 🌐 Frontend & Backend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
-
-### 🔧 Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+|DevOps & Tools|
+|:---:|
+|<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,figma" />|
 
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kjhk3082&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjhk3082&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" width="41%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kjhk3082&theme=radical" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kjhk3082&theme=radical&hide_border=true&background=0D1117" width="60%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kjhk3082&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kjhk3082&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kjhk3082&theme=radical&utcOffset=9" width="32%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kjhk3082&theme=radical" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=kjhk3082&theme=radical&hide_border=true&background=141321" width="49%"/>
 </div>
 
 ---
 
-<h2 align="center">🏅 Baekjoon Online Judge 🏅</h2>
+## 🏅 Baekjoon Online Judge
 
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhk3082" width="45%"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=kjhk3082&theme=warm" width="45%"/>
 </div>
 
 ---
 
-<h2 align="center">🏙️ 3D Contribution 🏙️</h2>
+## 🏙️ 3D Contribution
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
@@ -105,46 +97,39 @@ const jaeHyung = {
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kjhk3082&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kjhk3082&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 </div>
 
 ---
 
-<h2 align="center">📈 Contribution Graph 📈</h2>
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kjhk3082&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kjhk3082&bg_color=141321&color=A9FEF7&line=F85D7F&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
 ---
 
-<h2 align="center">📫 Contact Me 📫</h2>
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/kjhk3082">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-</a>
-<a href="mailto:kjhk3082@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/kjhk3082"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kjhk3082/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kjhk3082@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 ### ⚔️ *"Sweat saves blood, blood saves lives, and brains save both."*
-#### - Erwin Rommel (롬멜 장군)
-
-<br/>
-
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjhk3082&count_bg=%23F85D7F&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
+#### — Erwin Rommel (롬멜 장군)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer)
